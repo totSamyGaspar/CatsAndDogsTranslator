@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.localized
+.Trash/
+.CFUserTextEncoding
+
+# Xcode user-specific files
+xcuserdata/
+DerivedData/
+.swiftpm/
+.xcworkspace/
+.xcodeproj/
+
+# Pods & Dependencies
+Pods/
+Carthage/
+.cocoapods/
+.gem/
+
+# Other
+.vscode/
+.idea/
